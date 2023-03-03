@@ -94,7 +94,7 @@
     "ts-loader": "^9.2.3",
     "typescript": "^4.3.5",
     "webpack": "^5.45.1",
-    "webpack-cli": "^4.7.2"
+    "webpack-cli": "^5.0.1"
   },
   "jest_COMMENTS": {
     "testPathIgnorePatterns": "See https://jestjs.io/docs/configuration#testpathignorepatterns-arraystring . We set it to 1. ignore coverage for deps, and 2. be sure we test the compiled JS, which is in `lib`, not `src` or `dist`",
